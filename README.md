@@ -1,5 +1,10 @@
 # personalBlog
 
+
+## Project description
+```
+It is built by vue and used to show my personal project 
+```
 ## Project setup
 ```
 yarn
